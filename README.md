@@ -10,9 +10,9 @@
 A live dashboard for real-time urban navigation, combining YOLOv11-driven perception with live weather feeds to support adaptive routing and safer mobility.
 
 
-## Authors  
+## Author  
 
-**Bushra Tabassum (Bushra)**  
+**Bushra Tabassum**  
 Researcher in Biomedical Signal Processing, AI in Healthcare, and Digital Twin  
 [GitHub Profile](https://github.com/bushratabassum10)
 ---
@@ -41,8 +41,8 @@ This dashboard demonstrates how perception and weather data can be fused to aid 
 To run locally:
 
 ```bash
-git clone https://github.com/Irteeja/urban-navigation-dashboard.git
+git clone https://github.com/bushratabassum10/urban-navigation-dashboard.git
 cd urban-navigation-dashboard
 python -m http.server 8000
-M. D. Irteeja Kobir, *Urban-Navigation-Dashboard*, GitHub repository, 2025.  
-Available: https://github.com/Irteeja/urban-navigation-dashboard
+Bushra Tabassum *Urban-Navigation-Dashboard*, GitHub repository, 2025.  
+Available: https://github.com/bushratabassum10/urban-navigation-dashboard
