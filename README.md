@@ -12,13 +12,9 @@ A live dashboard for real-time urban navigation, combining YOLOv11-driven percep
 
 ## Authors  
 
-**Md. Irteeja Kobir (Irteeja)**  
-Enthusiast in Machine Learning, Deep Learning & Natural Language Processing  
-[GitHub Profile](https://github.com/Irteeja)  
-
 **Bushra Tabassum (Bushra)**  
 Researcher in Biomedical Signal Processing, AI in Healthcare, and Digital Twin  
-
+[GitHub Profile](https://github.com/bushratabassum10)
 ---
 
 ## Overview
