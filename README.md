@@ -16,10 +16,7 @@ A live dashboard for real-time urban navigation, combining YOLOv11-driven percep
 Researcher in Biomedical Signal Processing, AI in Healthcare, and Digital Twin  
 [GitHub Profile](https://github.com/bushratabassum10)
 ---
-**Md. Irteeja Kobir (Irteeja)**  
-Enthusiast in Machine Learning, Deep Learning & Natural Language Processing  
-[GitHub Profile](https://github.com/Irteeja)  
----
+
 ## Overview
 
 This dashboard demonstrates how perception and weather data can be fused to aid safer, more resilient urban traversal. It uses:
