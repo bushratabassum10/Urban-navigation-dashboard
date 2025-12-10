@@ -15,6 +15,9 @@ A live dashboard for real-time urban navigation, combining YOLOv11-driven percep
 **Bushra Tabassum**  
 Researcher in Intelligent Systems, Machine Learning, Artificial Intelligence, and Digital Twin  
 [GitHub Profile](https://github.com/bushratabassum10)
+
+Md. Irteeja Kobir
+Enthusiast in Machine Learning, Deep Learning & Natural Language Processing
 ---
 
 ## Overview
