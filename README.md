@@ -13,7 +13,7 @@ A live dashboard for real-time urban navigation, combining YOLOv11-driven percep
 ## Authors  
 
 **Bushra Tabassum**  
-Researcher in Biomedical Signal Processing, AI in Healthcare, and Digital Twin  
+Researcher in Intelligent Systems, Machine Learning, Artificial Intelligence, and Digital Twin  
 [GitHub Profile](https://github.com/bushratabassum10)
 ---
 
